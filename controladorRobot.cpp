@@ -1,7 +1,6 @@
 // PruebaConsola.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
 #include <HD/hd.h>// Library of haptic device
 #include <HDU/hduError.h>
 #include <HDU/hduVector.h>

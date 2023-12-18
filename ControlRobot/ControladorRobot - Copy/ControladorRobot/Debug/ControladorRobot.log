@@ -1,0 +1,9 @@
+﻿  PruebaConsola.cpp
+C:\Users\manuf\OneDrive\Escritorio\SistemaNavegacionCirugiaRobotica\ControlRobot\ControladorRobot\ControladorRobot\PruebaConsola.cpp(193,12): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\manuf\OneDrive\Escritorio\SistemaNavegacionCirugiaRobotica\ControlRobot\ControladorRobot\ControladorRobot\PruebaConsola.cpp(166,25): warning C4101: 'fin': unreferenced local variable
+C:\Users\manuf\OneDrive\Escritorio\SistemaNavegacionCirugiaRobotica\ControlRobot\ControladorRobot\ControladorRobot\PruebaConsola.cpp(166,17): warning C4101: 'inicio': unreferenced local variable
+  ControladorRobot.vcxproj -> C:\Users\manuf\OneDrive\Escritorio\SistemaNavegacionCirugiaRobotica\ControlRobot\ControladorRobot\Debug\ControladorRobot.exe
